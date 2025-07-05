@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Posyandu Mawar RW 14",
+  "description": "A web application for Posyandu Mawar RW 14 cadres to manage data for children and pregnant mothers, including registration, data input (manual & Excel), and PDF reports.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
